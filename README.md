@@ -20,7 +20,7 @@ It allows users to easily create, edit, delete, pin, tag, color, and search note
 
 | Dashboard View | Colored & Pinned Notes |
 |----------------|------------------------|
-| ![Screenshot1](./src/screenshot/screenshot1.png.jpegpng) |
+| ![Screenshot1](./src/screenshot/screenshot1.png.jpeg) |
 
 
 
