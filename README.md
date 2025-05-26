@@ -16,6 +16,11 @@ It allows users to easily create, edit, delete, pin, tag, color, and search note
 
 ---
 
+
+## 🚀 Live Demo
+
+👉 [Click here to view the deployed app](https://fancy-cocada-f6d004.netlify.app/)
+
 ## 📸 Screenshots
 
 | Dashboard View | Colored & Pinned Notes |
@@ -35,4 +40,14 @@ It allows users to easily create, edit, delete, pin, tag, color, and search note
 - **Custom Hooks & Components**
 
 ---
+## 🧠 Folder Structure
 
+NotesApp/
+│
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.js
+│ ├── index.js
+├── package.json
+└── README.md
